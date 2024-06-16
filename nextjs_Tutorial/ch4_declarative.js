@@ -1,5 +1,3 @@
-// Getting Started with React
-
 <script type="text/jsx">
   const domNode = document.getElementById("app")
   const root = ReactDOM.createRoot(domNode);

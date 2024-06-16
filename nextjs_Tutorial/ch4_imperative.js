@@ -1,5 +1,3 @@
-// Getting Started with React
-
 <script type="text/javascript">
   const app = document.getElementById('app');
   const header = document.createElement('h1');
